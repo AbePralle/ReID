@@ -5,7 +5,7 @@
 $define VERSION "1.1"
 $define DATE    "May 23, 2020"
 
-$requireRogue "1.7.2"
+$requireRogue "1.7.4"
 
 ReID()
 
